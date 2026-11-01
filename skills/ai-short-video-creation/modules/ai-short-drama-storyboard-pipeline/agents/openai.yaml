@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI短剧分镜视频流水线"
+  short_description: "短剧资源、连续动作导演卡、Seedance提示词与成片复盘"
+  default_prompt: "Use $ai-short-drama-storyboard-pipeline to build direct-input director cards and Seedance prompts, then review my downloaded video and backfill fixes."

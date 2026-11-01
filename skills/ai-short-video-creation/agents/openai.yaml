@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI短视频创作"
+  short_description: "短剧资产、连续性分镜、Seedance提示词及封面发布文案"
+  default_prompt: "使用 $ai-short-video-creation 按我的当前需求处理短剧项目，核对剧情并推进对应的资产、分镜、Seedance提示词或封面发布文案；复用现有成果，区分实际完成与待验收状态。"

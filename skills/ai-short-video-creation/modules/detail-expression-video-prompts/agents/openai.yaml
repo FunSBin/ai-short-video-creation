@@ -1,0 +1,4 @@
+interface:
+  display_name: "细节表情生视频提示词"
+  short_description: "将抽象情绪拆成连续微表情、对白反应与可执行视频提示词"
+  default_prompt: "Use $detail-expression-video-prompts to turn this emotional scene into a directly usable video-generation prompt with continuous micro-expression performance."

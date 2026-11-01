@@ -1,0 +1,466 @@
+{
+  "copiedModules": [
+    {
+      "path": "skills/ai-short-video-creation/SKILL.md",
+      "origin": "ai-short-video-creation/SKILL.md",
+      "sourceSha256": "6a650c9582238da3798fe4fff70f5eacf0bfb5813b19a5bf48e7ffddad496028",
+      "adapted": true,
+      "publishedSha256": "24171483b7261b3247e743dfff9a5385c3205408cd0b3af258a237d3e02474b1"
+    },
+    {
+      "path": "skills/ai-short-video-creation/agents/openai.yaml",
+      "origin": "ai-short-video-creation/agents/openai.yaml",
+      "sourceSha256": "94875dcc8c91615353dbba0b5e113c139d7f366d2d99adfcafd2c473cd2c5dc5",
+      "adapted": false,
+      "publishedSha256": "94875dcc8c91615353dbba0b5e113c139d7f366d2d99adfcafd2c473cd2c5dc5"
+    },
+    {
+      "path": "skills/ai-short-video-creation/references/covers-release-copy.md",
+      "origin": "ai-short-video-creation/references/covers-release-copy.md",
+      "sourceSha256": "9bf35b566f6dfa82a5a3d9431ac5bddb78e85420c21433fc8231ea1e5a9b9d1a",
+      "adapted": false,
+      "publishedSha256": "9bf35b566f6dfa82a5a3d9431ac5bddb78e85420c21433fc8231ea1e5a9b9d1a"
+    },
+    {
+      "path": "skills/ai-short-video-creation/references/qa-handoff.md",
+      "origin": "ai-short-video-creation/references/qa-handoff.md",
+      "sourceSha256": "a2b1e1d52e9d8fc0d2e22cdcb529053e90731fbd7af53e19aa69a710b9893f35",
+      "adapted": true,
+      "publishedSha256": "6c92cb99605732d387cb828b4addbe58b6db2cbc407581a3839032903e5f02d1"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-assets/SKILL.md",
+      "origin": "ai-short-video-assets/SKILL.md",
+      "sourceSha256": "1e5c5c75c11fae4f225ef8755e3b95596b2bfe1d89db9aff9d35caded5fa40f6",
+      "adapted": true,
+      "publishedSha256": "b65f45d3bda3342363010580cdbc78c747e663b229246b9c8791db7b307fa5b9"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-assets/references/design-assets.md",
+      "origin": "ai-short-video-assets/references/design-assets.md",
+      "sourceSha256": "6bff0ec4185fcc39e7c8ec035bb1fa06e41ff042f1cccc342e7c25bb3dab3525",
+      "adapted": false,
+      "publishedSha256": "6bff0ec4185fcc39e7c8ec035bb1fa06e41ff042f1cccc342e7c25bb3dab3525"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-assets/references/scene-coverage.md",
+      "origin": "ai-short-video-assets/references/scene-coverage.md",
+      "sourceSha256": "e10097fb81c466dc3433ea669bd09b92515114c71f4f4e258da032a5f8419b7e",
+      "adapted": false,
+      "publishedSha256": "e10097fb81c466dc3433ea669bd09b92515114c71f4f4e258da032a5f8419b7e"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-storyboard/SKILL.md",
+      "origin": "ai-short-video-storyboard/SKILL.md",
+      "sourceSha256": "acae4662273b1c22f3b0cbbc80d0b5544195940da26c766e63bfcaa4701315b6",
+      "adapted": true,
+      "publishedSha256": "c682f2eb7d8cb130f10148f6ebc8523ef5860f51cc2fb4db4452bee181cb09a8"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-storyboard/references/spatial-camera-action.md",
+      "origin": "ai-short-video-storyboard/references/spatial-camera-action.md",
+      "sourceSha256": "29fc7845e76aa458e469f40f996e284002780d614ad84f7e914c5b8354094dfc",
+      "adapted": false,
+      "publishedSha256": "29fc7845e76aa458e469f40f996e284002780d614ad84f7e914c5b8354094dfc"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-storyboard/references/storyboard-performance.md",
+      "origin": "ai-short-video-storyboard/references/storyboard-performance.md",
+      "sourceSha256": "566f00989869ed3d2625042d36b76f212663def2d6820e00710201abaefd02c3",
+      "adapted": true,
+      "publishedSha256": "700817f3115271789e236465ed9b392bbfc9c7a22b1a15721d51b72ed84e0e89"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-seedance/SKILL.md",
+      "origin": "ai-short-video-seedance/SKILL.md",
+      "sourceSha256": "2d30ba108f830d85fe4aec42d57ce41a6621c788f48c4aa931f0d9a6c3e9c9d0",
+      "adapted": true,
+      "publishedSha256": "1f2a683600a3ba426282188a9e6fbfc662f32ba7931a0a3bfe93cce3aac7cc36"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-seedance/references/beat-examples.md",
+      "origin": "ai-short-video-seedance/references/beat-examples.md",
+      "sourceSha256": "420c42e1764a26b2904fa6acf8fe7960245ad616cfa6e68c9a179bd44956146a",
+      "adapted": true,
+      "publishedSha256": "9cedee699210fd80b9d65c9242329570fcdbbe5d70ba4e398e962e6c27a20453"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-seedance/references/generation-defaults.md",
+      "origin": "ai-short-video-seedance/references/generation-defaults.md",
+      "sourceSha256": "7780ecdefb0d3f9bc4bfe6b2fd4c6bcd8a057c11abca1437c844085a96179ad7",
+      "adapted": true,
+      "publishedSha256": "6b802cf2f35123f9e184b0770743640ede506a287dcbbc5d811887c659c1d462"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-seedance/references/video-prompts.md",
+      "origin": "ai-short-video-seedance/references/video-prompts.md",
+      "sourceSha256": "dfe9e1c68fbf4b0be2b659464745105472cc15cf3cd04443cf1ea07b89e35820",
+      "adapted": true,
+      "publishedSha256": "cece393a9f6b4f584ee2a9051005c070bc7733f8aedaca281a69f789032a4125"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-seedance/templates/seedance-segment.md",
+      "origin": "ai-short-video-seedance/templates/seedance-segment.md",
+      "sourceSha256": "f9f27008980104bbe8c4e607737e7b28e4d5ce4e95305e3f82fe9c7c08b341ed",
+      "adapted": true,
+      "publishedSha256": "5640485116e8a3fa61506f7e66fc9329c61aef1adc0b8b2c188f598b63ce731a"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-combat/SKILL.md",
+      "origin": "ai-short-video-combat/SKILL.md",
+      "sourceSha256": "753f057f810c07d81819e880e619b678daa27a0e57ca9f1aaca4686af70573c2",
+      "adapted": false,
+      "publishedSha256": "753f057f810c07d81819e880e619b678daa27a0e57ca9f1aaca4686af70573c2"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-combat/agents/openai.yaml",
+      "origin": "ai-short-video-combat/agents/openai.yaml",
+      "sourceSha256": "39cb3ade0c768f3fd0f07789105ac1b3f7e4cc0dc85a71916381d68d40b0f9c7",
+      "adapted": false,
+      "publishedSha256": "39cb3ade0c768f3fd0f07789105ac1b3f7e4cc0dc85a71916381d68d40b0f9c7"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-combat/references/combat-design.md",
+      "origin": "ai-short-video-combat/references/combat-design.md",
+      "sourceSha256": "5f62bacc9a1310940cc0d88d17a069bb8061c63c9641e3c976cd38206bea6921",
+      "adapted": false,
+      "publishedSha256": "5f62bacc9a1310940cc0d88d17a069bb8061c63c9641e3c976cd38206bea6921"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-video-combat/references/continuous-combat-example.md",
+      "origin": "ai-short-video-combat/references/continuous-combat-example.md",
+      "sourceSha256": "866f7d090bbfacb053cd0538fd11e90641efce126858c1bf6bc10bed96584a85",
+      "adapted": false,
+      "publishedSha256": "866f7d090bbfacb053cd0538fd11e90641efce126858c1bf6bc10bed96584a85"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/detail-expression-video-prompts/SKILL.md",
+      "origin": "detail-expression-video-prompts/SKILL.md",
+      "sourceSha256": "e0ff28a0c53950af60654ca4a6f04134d2295847d3940d35812aa69b76caaf82",
+      "adapted": false,
+      "publishedSha256": "e0ff28a0c53950af60654ca4a6f04134d2295847d3940d35812aa69b76caaf82"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/detail-expression-video-prompts/agents/openai.yaml",
+      "origin": "detail-expression-video-prompts/agents/openai.yaml",
+      "sourceSha256": "7ddaa5c8625e148d5044eb4dd7bc51ba0664b729b63cf228ec5b01f9ce7efb12",
+      "adapted": true,
+      "publishedSha256": "ef365194f8d538d3434d27b4945c4d131ab70be87b8fc79d3cf7dcbf99fd7a6d"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/detail-expression-video-prompts/references/complete-example.md",
+      "origin": "detail-expression-video-prompts/references/complete-example.md",
+      "sourceSha256": "93aa61666a04de04a5fa813991ad4e1eab332dc4b05f46231209e97677a136a8",
+      "adapted": false,
+      "publishedSha256": "93aa61666a04de04a5fa813991ad4e1eab332dc4b05f46231209e97677a136a8"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/detail-expression-video-prompts/references/prompt-contract.md",
+      "origin": "detail-expression-video-prompts/references/prompt-contract.md",
+      "sourceSha256": "10a598a469a8cbe94925c63aa3153a5ac47f0c1dea1a03ce3e2afb7c8d05f71d",
+      "adapted": false,
+      "publishedSha256": "10a598a469a8cbe94925c63aa3153a5ac47f0c1dea1a03ce3e2afb7c8d05f71d"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/SKILL.md",
+      "origin": "ai-short-drama-storyboard-pipeline/SKILL.md",
+      "sourceSha256": "771375a7a7a9ea599bd52ff948d940e2fc4bc6010541d8a0d7b35681f046ba33",
+      "adapted": true,
+      "publishedSha256": "424281a4c81819531f7f3e17ad2703ea257b0a5950855f7a67bb97919a80f037"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/agents/openai.yaml",
+      "origin": "ai-short-drama-storyboard-pipeline/agents/openai.yaml",
+      "sourceSha256": "6168fd93b483c4f327bbfeef3e91b37d51c973ae16bd66c3611a4dc5f5e7e8af",
+      "adapted": true,
+      "publishedSha256": "b5ff83605f9dd0582cfb51768cba101e76280c14a3e310880655aac563529391"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/references/01_story_to_script.md",
+      "origin": "ai-short-drama-storyboard-pipeline/references/01_story_to_script.md",
+      "sourceSha256": "56e2f872d9327aa9b51e02d9163244741aaa08d0a4ed9d53794ce5f2ebe77650",
+      "adapted": false,
+      "publishedSha256": "56e2f872d9327aa9b51e02d9163244741aaa08d0a4ed9d53794ce5f2ebe77650"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/references/02_resource_planning.md",
+      "origin": "ai-short-drama-storyboard-pipeline/references/02_resource_planning.md",
+      "sourceSha256": "32cb640bb160538585ef2453f89e5638e6273f824398145d90ee22362cbd1e09",
+      "adapted": false,
+      "publishedSha256": "32cb640bb160538585ef2453f89e5638e6273f824398145d90ee22362cbd1e09"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/references/03_resource_image_generation.md",
+      "origin": "ai-short-drama-storyboard-pipeline/references/03_resource_image_generation.md",
+      "sourceSha256": "3ef4f363f8155abdb8a75baa64b7ba93c5b276387004bc861c2b87f233d353d9",
+      "adapted": false,
+      "publishedSha256": "3ef4f363f8155abdb8a75baa64b7ba93c5b276387004bc861c2b87f233d353d9"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/references/04_storyboard_script.md",
+      "origin": "ai-short-drama-storyboard-pipeline/references/04_storyboard_script.md",
+      "sourceSha256": "5d731ed59013f5365181c59aa6b682bbe8ae07881a32c887ecb9adf4cbbbc2c0",
+      "adapted": false,
+      "publishedSha256": "5d731ed59013f5365181c59aa6b682bbe8ae07881a32c887ecb9adf4cbbbc2c0"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/references/05_bw_multi_panel_storyboards.md",
+      "origin": "ai-short-drama-storyboard-pipeline/references/05_bw_multi_panel_storyboards.md",
+      "sourceSha256": "c9730b202838c62ee56bb5724d060e4725305f43a3033ca7f56b23bcd0c0882c",
+      "adapted": false,
+      "publishedSha256": "c9730b202838c62ee56bb5724d060e4725305f43a3033ca7f56b23bcd0c0882c"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/references/06_seedance2_prompts.md",
+      "origin": "ai-short-drama-storyboard-pipeline/references/06_seedance2_prompts.md",
+      "sourceSha256": "92aea7bf95dc01158f4a5aa0861d06ad792cf66b520050d9561ed5904e5e3974",
+      "adapted": false,
+      "publishedSha256": "92aea7bf95dc01158f4a5aa0861d06ad792cf66b520050d9561ed5904e5e3974"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/references/07_validation_and_feedback.md",
+      "origin": "ai-short-drama-storyboard-pipeline/references/07_validation_and_feedback.md",
+      "sourceSha256": "b28d91108f74a6d89ea939cb62e47913088d84ade551582a05cc20926c9e6718",
+      "adapted": false,
+      "publishedSha256": "b28d91108f74a6d89ea939cb62e47913088d84ade551582a05cc20926c9e6718"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/references/08_continuous_action_director_cards.md",
+      "origin": "ai-short-drama-storyboard-pipeline/references/08_continuous_action_director_cards.md",
+      "sourceSha256": "199af8c8c690fc7c185ab6070a57763afac5c0428e7f9ac589ed47031faaedf9",
+      "adapted": false,
+      "publishedSha256": "199af8c8c690fc7c185ab6070a57763afac5c0428e7f9ac589ed47031faaedf9"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/templates/bw_multi_panel_prompt_template.md",
+      "origin": "ai-short-drama-storyboard-pipeline/templates/bw_multi_panel_prompt_template.md",
+      "sourceSha256": "91610bca1154a492302ed3a960a7ae715a40b410c79328d00ced9d950acf1ba2",
+      "adapted": false,
+      "publishedSha256": "91610bca1154a492302ed3a960a7ae715a40b410c79328d00ced9d950acf1ba2"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/templates/continuous_action_director_card_template.md",
+      "origin": "ai-short-drama-storyboard-pipeline/templates/continuous_action_director_card_template.md",
+      "sourceSha256": "c7167c6e123657db77b45f8da822b42eff616d51492f46a9475e4b04de4479a0",
+      "adapted": false,
+      "publishedSha256": "c7167c6e123657db77b45f8da822b42eff616d51492f46a9475e4b04de4479a0"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/templates/resource_prompt_doc_template.md",
+      "origin": "ai-short-drama-storyboard-pipeline/templates/resource_prompt_doc_template.md",
+      "sourceSha256": "8016fac5d40502012808673b8add91824cf4a77e214f553d3b4c6179cd466611",
+      "adapted": false,
+      "publishedSha256": "8016fac5d40502012808673b8add91824cf4a77e214f553d3b4c6179cd466611"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/templates/seedance2_prompt_template.md",
+      "origin": "ai-short-drama-storyboard-pipeline/templates/seedance2_prompt_template.md",
+      "sourceSha256": "b905bc19daa2af31c0b9a378069f98f29eb7c0fd45cacb4ebe04b40c1a35b0cb",
+      "adapted": false,
+      "publishedSha256": "b905bc19daa2af31c0b9a378069f98f29eb7c0fd45cacb4ebe04b40c1a35b0cb"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/ai-short-drama-storyboard-pipeline/templates/storyboard_script_template.md",
+      "origin": "ai-short-drama-storyboard-pipeline/templates/storyboard_script_template.md",
+      "sourceSha256": "a72fd1823d4b32645ebf749ba2c633071f306927a42c69f28115ac8207beb5f5",
+      "adapted": false,
+      "publishedSha256": "a72fd1823d4b32645ebf749ba2c633071f306927a42c69f28115ac8207beb5f5"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/LICENSE",
+      "origin": "short-drama-factory/LICENSE",
+      "sourceSha256": "d7d8a34a23e119bc5ccf6eab451ade58a379a8a217a8b25525ad11599e84c938",
+      "adapted": true,
+      "publishedSha256": "19d57926a8da6f46ff84f4ab82cd61edc232e927e8be4b2514a40bde8b5d2512"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/SKILL.md",
+      "origin": "short-drama-factory/SKILL.md",
+      "sourceSha256": "1492d73e2c4313c639f98ca11c99dc44df9f7e38ec51003f1c2148eaa02c5c64",
+      "adapted": true,
+      "publishedSha256": "4150f0fefdf32b81f41cef93c250916bfe2b7364be06c2226b50030c09dff592"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/examples/ep01-longwang-demo.md",
+      "origin": "short-drama-factory/examples/ep01-longwang-demo.md",
+      "sourceSha256": "1f5d69457cb476e6ef6c7df483f04f47dac23cfee7ce57d956430a178b0b04f2",
+      "adapted": false,
+      "publishedSha256": "1f5d69457cb476e6ef6c7df483f04f47dac23cfee7ce57d956430a178b0b04f2"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/examples/long-format-3min-demo.md",
+      "origin": "short-drama-factory/examples/long-format-3min-demo.md",
+      "sourceSha256": "ee7a426771dad2889d5642094aabc9f54aec9aaa70b57c4393c7c4ee57f1f5a8",
+      "adapted": false,
+      "publishedSha256": "ee7a426771dad2889d5642094aabc9f54aec9aaa70b57c4393c7c4ee57f1f5a8"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/character-bible.md",
+      "origin": "short-drama-factory/references/character-bible.md",
+      "sourceSha256": "c631eebfaa1695662a152ae985150a1ac64eccea9adef4cd06d7954cbf69b1a1",
+      "adapted": true,
+      "publishedSha256": "5ae7327e91e371d78f7ecc7bbc54eb233d5da27f302f4c9441f53552f7b9aa32"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/cliffhanger-master-formulas.md",
+      "origin": "short-drama-factory/references/cliffhanger-master-formulas.md",
+      "sourceSha256": "3c3819ce5108521f3dc0a963fd77cfdcb9434d46f3f52ccabaef88dcd9c5075b",
+      "adapted": true,
+      "publishedSha256": "9775064275b7ccb509464d4aa7d50bb7d739c22621252055ddb983f8ece5e30c"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/conflict-modes.md",
+      "origin": "short-drama-factory/references/conflict-modes.md",
+      "sourceSha256": "953a9ebafba3120238c431873fd4e52325528479b21c8b6b72951ff57bd39ec4",
+      "adapted": false,
+      "publishedSha256": "953a9ebafba3120238c431873fd4e52325528479b21c8b6b72951ff57bd39ec4"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/continuity-ledger.md",
+      "origin": "short-drama-factory/references/continuity-ledger.md",
+      "sourceSha256": "1c59a3c3b55a5f6367561ab9f28760d9815607fe6001ebc7b7101f4d948efb63",
+      "adapted": true,
+      "publishedSha256": "a66d5c46c4d7e747fcade8e6b5944725d4033986f94210a14ae18fefaa976436"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/craft-quality-layer.md",
+      "origin": "short-drama-factory/references/craft-quality-layer.md",
+      "sourceSha256": "e0e5787437200fec7f6c726aa1223ae3e16073d07481ec0cc487accaa103ed8d",
+      "adapted": false,
+      "publishedSha256": "e0e5787437200fec7f6c726aa1223ae3e16073d07481ec0cc487accaa103ed8d"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/dialogue-doctor-anti-ai.md",
+      "origin": "short-drama-factory/references/dialogue-doctor-anti-ai.md",
+      "sourceSha256": "1b12fb606d6e18ae29fefd5f43e5a294426e3701cbb903e3e20a5b79386d5594",
+      "adapted": false,
+      "publishedSha256": "1b12fb606d6e18ae29fefd5f43e5a294426e3701cbb903e3e20a5b79386d5594"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/emotion-flow-roundtrip.md",
+      "origin": "short-drama-factory/references/emotion-flow-roundtrip.md",
+      "sourceSha256": "e09ad6ae82ffde293f658abbf3d34ccee5b6a659be9b5b936af0d3f0dd216caa",
+      "adapted": true,
+      "publishedSha256": "1c9cecc0e2ea7edb9dd5dcb039c66aaa0385a0fd46d4a1126f655f8fe9e70e9a"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/first-three-eps-beat-card.md",
+      "origin": "short-drama-factory/references/first-three-eps-beat-card.md",
+      "sourceSha256": "6dd4c46a2160ea6ab56b5031d0e2232bf55681261cf467588d0a3bb840caeb53",
+      "adapted": false,
+      "publishedSha256": "6dd4c46a2160ea6ab56b5031d0e2232bf55681261cf467588d0a3bb840caeb53"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/genre-map.md",
+      "origin": "short-drama-factory/references/genre-map.md",
+      "sourceSha256": "9a813ac7cae442fac9af37cdca85c1207f969045eac3612b45b884ef00ff69d1",
+      "adapted": false,
+      "publishedSha256": "9a813ac7cae442fac9af37cdca85c1207f969045eac3612b45b884ef00ff69d1"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/golden-3s-hook-library.md",
+      "origin": "short-drama-factory/references/golden-3s-hook-library.md",
+      "sourceSha256": "eda040bff23940c8849bfec8e7e7c07100d13c26d0ab81d5d71b65660f4c7b53",
+      "adapted": true,
+      "publishedSha256": "697aae0099267be9ab4853f4db53e595150e5eb761e14b40fe9d4716e23fdde0"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/hongguo-beat-sheet.md",
+      "origin": "short-drama-factory/references/hongguo-beat-sheet.md",
+      "sourceSha256": "44e2412f5363c1b0a46af790c85087ee3339fe50a73a05d8419d29a8165a1d56",
+      "adapted": false,
+      "publishedSha256": "44e2412f5363c1b0a46af790c85087ee3339fe50a73a05d8419d29a8165a1d56"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/inner-monologue-vo.md",
+      "origin": "short-drama-factory/references/inner-monologue-vo.md",
+      "sourceSha256": "af4c1fd599633e6d2944d9f0fdd22ae6e90a68e880c30d3b83f9c008f894092b",
+      "adapted": false,
+      "publishedSha256": "af4c1fd599633e6d2944d9f0fdd22ae6e90a68e880c30d3b83f9c008f894092b"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/mechanism-imitation.md",
+      "origin": "short-drama-factory/references/mechanism-imitation.md",
+      "sourceSha256": "fc72cf4a67c6f5f959324a9dece74e93d9fc31f5544daf9316439ad24db3d1fb",
+      "adapted": false,
+      "publishedSha256": "fc72cf4a67c6f5f959324a9dece74e93d9fc31f5544daf9316439ad24db3d1fb"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/protective-counterexamples.md",
+      "origin": "short-drama-factory/references/protective-counterexamples.md",
+      "sourceSha256": "3433acf0529e72a4fd1bc4efa952c2481b7c64cf424604b31dc8a5ac5dcb98d9",
+      "adapted": false,
+      "publishedSha256": "3433acf0529e72a4fd1bc4efa952c2481b7c64cf424604b31dc8a5ac5dcb98d9"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/screenplay-compliance-rules.md",
+      "origin": "short-drama-factory/references/screenplay-compliance-rules.md",
+      "sourceSha256": "b8d540f4314db88f09518d6d5ee06b2c1e0c68e894e686ae6bb662db142645f3",
+      "adapted": false,
+      "publishedSha256": "b8d540f4314db88f09518d6d5ee06b2c1e0c68e894e686ae6bb662db142645f3"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/script-doctor-protocol.md",
+      "origin": "short-drama-factory/references/script-doctor-protocol.md",
+      "sourceSha256": "c79436902c55e8beebf59f227a5e3689d1ad7ee35953e2c192c9d3db8ffd35c2",
+      "adapted": false,
+      "publishedSha256": "c79436902c55e8beebf59f227a5e3689d1ad7ee35953e2c192c9d3db8ffd35c2"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/skill-eval-protocol.md",
+      "origin": "short-drama-factory/references/skill-eval-protocol.md",
+      "sourceSha256": "666dabf02585e2477822f1d041a5a07b99abaf72ef686e952f6751649c784b54",
+      "adapted": false,
+      "publishedSha256": "666dabf02585e2477822f1d041a5a07b99abaf72ef686e952f6751649c784b54"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/references/webnovel-adaptation.md",
+      "origin": "short-drama-factory/references/webnovel-adaptation.md",
+      "sourceSha256": "8ea3951007be7a50308e25919d5e9e598cc48333bebecd0e20636e16ed4d57aa",
+      "adapted": true,
+      "publishedSha256": "b46d610e84f4590b6dfb80edbe1e026433ccb64ad55ccda0ff1dd450fee132d7"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/scripts/validate_episode.py",
+      "origin": "short-drama-factory/scripts/validate_episode.py",
+      "sourceSha256": "6bdc16ae62a2e211ee9311bd503c2ba8c565698d54a244d77721af812a841a65",
+      "adapted": false,
+      "publishedSha256": "6bdc16ae62a2e211ee9311bd503c2ba8c565698d54a244d77721af812a841a65"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/scripts/validate_series.py",
+      "origin": "short-drama-factory/scripts/validate_series.py",
+      "sourceSha256": "4ea85087c6140cf52723068730bc2a35c199afb4df3d5d16d61ceb2ef9476bf1",
+      "adapted": false,
+      "publishedSha256": "4ea85087c6140cf52723068730bc2a35c199afb4df3d5d16d61ceb2ef9476bf1"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/templates/episode-format.md",
+      "origin": "short-drama-factory/templates/episode-format.md",
+      "sourceSha256": "004d28f7a7d4bfb9a4b8e689395a2917ba1172ecc53bfb957855ef7343279c4a",
+      "adapted": false,
+      "publishedSha256": "004d28f7a7d4bfb9a4b8e689395a2917ba1172ecc53bfb957855ef7343279c4a"
+    },
+    {
+      "path": "skills/ai-short-video-creation/modules/short-drama-factory/templates/ledger.md",
+      "origin": "short-drama-factory/templates/ledger.md",
+      "sourceSha256": "1909642675a413fc457f3a0e605a4ba7c3e08505b4caceb3546011a93f20f278",
+      "adapted": true,
+      "publishedSha256": "246a56b5fe02509515a638f7a8fc74502bc7568c713b49f3e522e9b786673cf2"
+    }
+  ],
+  "excludedOriginalModules": [
+    "acting",
+    "cinedance-higgsfield",
+    "lira",
+    "xyq-skill"
+  ],
+  "note": "未附再分发许可的原文未复制；相应能力由新写的通用模块提供。未复制项目剧本、素材、账号或CLI程序。",
+  "newModules": [
+    "ai-video-performance",
+    "ai-video-camera",
+    "ai-video-image-prompts",
+    "ai-video-provider",
+    "ai-video-finishing"
+  ]
+}

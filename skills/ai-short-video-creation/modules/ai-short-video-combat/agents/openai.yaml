@@ -1,0 +1,6 @@
+interface:
+  display_name: "连续动作与战斗导演"
+  short_description: "设计连续攻防与追逐场景，写清命中受力、镜头和生成段接续"
+  default_prompt: "使用 $ai-short-video-combat 设计这段连续战斗，按当前平台时长上限交付详细中文动作提示词。"
+policy:
+  allow_implicit_invocation: true

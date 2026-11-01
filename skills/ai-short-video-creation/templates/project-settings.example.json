@@ -1,0 +1,18 @@
+{
+  "project_name": "我的AI短剧",
+  "episode_count": null,
+  "episode_target_seconds": null,
+  "language": "zh-CN",
+  "visual_style": null,
+  "image_provider": null,
+  "video_provider": null,
+  "video_model": null,
+  "video_ratio": null,
+  "video_quality": null,
+  "generation_mode": "manual",
+  "authorized_scope": [],
+  "max_image_calls": null,
+  "max_video_calls": 0,
+  "asset_root": "资产",
+  "notes": "模型留空待按用户与实际平台设置；这里不放凭据。manual模式不提交视频生成。"
+}
