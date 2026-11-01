@@ -2,6 +2,7 @@
   "version": 1,
   "files": {
     "agents/openai.yaml": "94875dcc8c91615353dbba0b5e113c139d7f366d2d99adfcafd2c473cd2c5dc5",
+    "LICENSE": "426120f71be8f415aceac4ee2939178ae7d953b13746905e979dc470cdfbb023",
     "modules/ai-short-drama-storyboard-pipeline/agents/openai.yaml": "b5ff83605f9dd0582cfb51768cba101e76280c14a3e310880655aac563529391",
     "modules/ai-short-drama-storyboard-pipeline/references/01_story_to_script.md": "56e2f872d9327aa9b51e02d9163244741aaa08d0a4ed9d53794ce5f2ebe77650",
     "modules/ai-short-drama-storyboard-pipeline/references/02_resource_planning.md": "32cb640bb160538585ef2453f89e5638e6273f824398145d90ee22362cbd1e09",
@@ -72,6 +73,8 @@
     "references/qa-handoff.md": "6c92cb99605732d387cb828b4addbe58b6db2cbc407581a3839032903e5f02d1",
     "references/start-and-script.md": "b3675eab564945aaaa4ea7ba335f41a6bf142a507c01ac73d3f7fa26153126a5",
     "SKILL.md": "24171483b7261b3247e743dfff9a5385c3205408cd0b3af258a237d3e02474b1",
-    "templates/project-settings.example.json": "79ecc8955c37a332b9b9d798038c95917a92a057f47e649199218c1f4dd0c50e"
+    "templates/project-settings.example.json": "79ecc8955c37a332b9b9d798038c95917a92a057f47e649199218c1f4dd0c50e",
+    "THIRD_PARTY_NOTICES.md": "6a71988f7d017882871aa8329717f2fa957dac228897e0213e8768186f265a0d"
   }
 }
+
